@@ -185,3 +185,14 @@ footer {
         padding: 45px 20px;
     }
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.project-card img {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
+}
